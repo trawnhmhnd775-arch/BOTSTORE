@@ -1,9 +1,7 @@
 {
-  "BOT_TOKEN": "8414826538:AAESRvyfwhA6xfZ0laUc6rHuqvkEvyBTHrM",
-  "ADMIN_IDS": [7944027261],
-  "BOT_STATUS": "on",
-  "ALLOW_LINKS": false,
-  "EXCHANGE_RATE": null,
-  "CURRENCY_DEFAULT": "AUTO",
-  "BUTTON_LAYOUT": {"type":"vertical","grid_columns":2}
+  "token": "8414826538:AAH9vOxXUmfObiT6TpCaYcLcRPnISLdrr6A",
+  "admin_id": 7944027261,
+  "currency": "USD",
+  "exchange_rate": 15000,
+  "button_layout": "grid"
 }
