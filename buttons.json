@@ -1,0 +1,22 @@
+{
+  "main_menu": [
+    {
+      "id": "services",
+      "text": "🎮 خدمات الألعاب",
+      "type": "submenu",
+      "submenu": [
+        {"id": "pubg", "text": "شحن شدات PUBG (1$)", "type": "request_info", "info_request": "أرسل ID والباقة المطلوبة"},
+        {"id": "ff", "text": "شحن Free Fire (2.5$)", "type": "request_info", "info_request": "أرسل ID والباقة المطلوبة"}
+      ],
+      "image": "",
+      "description": ""
+    },
+    {
+      "id": "contact",
+      "text": "📩 تواصل مع الأدمن",
+      "type": "contact_admin",
+      "image": "",
+      "description": ""
+    }
+  ]
+}
