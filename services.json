@@ -1,1 +1,18 @@
-[]
+
+{
+  "خدمة شحن 100 جيم": {
+    "price_usd": 1,
+    "description": "شحن 100 جيم للعبة",
+    "image": "https://example.com/image1.jpg"
+  },
+  "خدمة شحن 500 جيم": {
+    "price_usd": 5,
+    "description": "شحن 500 جيم للعبة",
+    "image": "https://example.com/image2.jpg"
+  },
+  "خدمة VIP شهر": {
+    "price_usd": 10,
+    "description": "اشتراك VIP لمدة شهر",
+    "image": "https://example.com/image3.jpg"
+  }
+}
